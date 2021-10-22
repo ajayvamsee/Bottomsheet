@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottomsheet</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment \n Standard bottom sheet
+Standard bottom sheets co-exist with the screen’s main UI region and allow for simultaneously viewing and interacting with both regions. They are commonly used to keep a feature or secondary content visible on screen when content in main UI region is frequently scrolled or panned.
+
+BottomSheetBehavior is applied to a child of CoordinatorLayout to make that child a persistent bottom sheet, which is a view that comes up from the bottom of the screen, elevated over the main content. It can be dragged vertically to expose more or less of their content.
+Standard bottom sheets co-exist with the screen’s main UI region and allow for simultaneously viewing and interacting with both regions. They are commonly used to keep a feature or secondary content visible on screen when content in main UI region is frequently scrolled or panned.
+
+BottomSheetBehavior is applied to a child of CoordinatorLayout to make that child a persistent bottom sheet, which is a view that comes up from the bottom of the screen, elevated over the main content. It can be dragged vertically to expose more or less of their content.</string>
+</resources>
